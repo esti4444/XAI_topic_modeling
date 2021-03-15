@@ -1,6 +1,5 @@
-# XAI_topic_modeling
-## Document’s topic as explaining features for text classifier
-### Explainable AI Seminar Final Project, Technion 096290
+# Topics as explaining features for text classifier
+## Explainable AI Seminar Final Project, Technion 096290
 
 ### Movie genre classification - CMU Movie Summary Corpus
 Top2vec topic model generates topics 
